@@ -28,4 +28,4 @@ Contributions are welcome, **especially improvements to the benchmark ground tru
 
 ## License and attribution
 
-The dataset is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is based on joint work between Volkswagen AG Group Innovation, IPG Automotive, and [Renumics](https://renumics.com/).
+The dataset is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and is based on joint work between [IPG Automotive](https://ipg-automotive.com/) and [Renumics](https://renumics.com/).
